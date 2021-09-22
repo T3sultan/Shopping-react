@@ -1,0 +1,14 @@
+.nav{
+    background-color:cyan;
+    line-height: 40px;
+}
+.nav a{
+    text-decoration: none;
+    margin-right: 20px;
+    color: black;
+    padding: 5px;
+    font-size: 20px;
+}
+.nav a:hover{
+    background-color: white
+}
